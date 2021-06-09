@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/zeicap/static/css/main.9d5b29c0.chunk.css",
+    "main.js": "/zeicap/static/js/main.7a16bf6a.chunk.js",
+    "main.js.map": "/zeicap/static/js/main.7a16bf6a.chunk.js.map",
+    "runtime-main.js": "/zeicap/static/js/runtime-main.368ef71c.js",
+    "runtime-main.js.map": "/zeicap/static/js/runtime-main.368ef71c.js.map",
+    "static/js/2.e63a0d1e.chunk.js": "/zeicap/static/js/2.e63a0d1e.chunk.js",
+    "static/js/2.e63a0d1e.chunk.js.map": "/zeicap/static/js/2.e63a0d1e.chunk.js.map",
+    "static/js/3.01e069f0.chunk.js": "/zeicap/static/js/3.01e069f0.chunk.js",
+    "static/js/3.01e069f0.chunk.js.map": "/zeicap/static/js/3.01e069f0.chunk.js.map",
+    "index.html": "/zeicap/index.html",
+    "static/css/main.9d5b29c0.chunk.css.map": "/zeicap/static/css/main.9d5b29c0.chunk.css.map",
+    "static/js/2.e63a0d1e.chunk.js.LICENSE.txt": "/zeicap/static/js/2.e63a0d1e.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.368ef71c.js",
+    "static/js/2.e63a0d1e.chunk.js",
+    "static/css/main.9d5b29c0.chunk.css",
+    "static/js/main.7a16bf6a.chunk.js"
+  ]
+}
