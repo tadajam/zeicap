@@ -19,11 +19,13 @@
     "typescript": "^4.3.2",
     "web-vitals": "^1.1.2"
   },
+  "homepage": "https://tadajam.github.io/zeicap/",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
-    "eject": "react-scripts eject"
+    "eject": "react-scripts eject",
+    "deploy": "npm run build && gh-pages -d build"
   },
   "eslintConfig": {
     "extends": [
